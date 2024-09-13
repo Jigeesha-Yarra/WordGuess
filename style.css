@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background-color: rgb(36, 41, 122);
+}
+
+
+h1 {
+    color: white;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
+
+#word-display {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+#attempts-remaining {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+#guess-form {
+    text-align: center;
+}
+
+#guess-input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+option{
+    font-family: sans-serif;
+}
+
